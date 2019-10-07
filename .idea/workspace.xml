@@ -41,6 +41,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1RmrfKpA7KEcevm88RkJWPq9XqI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -139,11 +140,22 @@
       <updated>1570283215040</updated>
       <workItem from="1570283219405" duration="18950000" />
       <workItem from="1570386656689" duration="7849000" />
-      <workItem from="1570432898923" duration="18942000" />
+      <workItem from="1570432898923" duration="19223000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
